@@ -1,10 +1,10 @@
 # Boys & Girls Club Tutorial
 A set of coding tutorials written for the Kotzebue Boys and Girls club.
 
-
+## 2021 Schedule
 | Date       | Folder | Topic                                           |
 |------------|--------|-------------------------------------------------|
-| June 7/8   | day_1  | Vars, ifs, for, while, data types, comments     |
+| June 7/8   | day_1  | Vars, ifs, loops, types, comments               |
 | June 14/15 | day_2  | Functions, parameters, imports, tracebacks      |
 | June 21/22 | day_3  | Classes, methods, init, if-main, brainstorm     |
 | June 28/29 | day_4  | Showcase samples, Choose project, design, mockup|
