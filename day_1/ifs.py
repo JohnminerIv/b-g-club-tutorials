@@ -43,7 +43,7 @@ even if your first statement doesn't work
 if ben > 10:
     print('this wont print')
 else:
-    print(f'ben is not greater than 10')
+    print('ben is not greater than 10')
 
 """
 Elifs are similar but to else's but the have conditions too, and they only

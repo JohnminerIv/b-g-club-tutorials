@@ -41,11 +41,11 @@ ages = {'John': 20, 'Rick': 52}
 print(ages) # {'John': 20, 'Rick': 52}
 print(ages['John']) # 20
 ages['Morty'] = 15
-print(ages) # {'John': 20, 'Rick': 52, 'Morty': 15
+print(ages) # {'John': 20, 'Rick': 52, 'Morty': 15}
 
 print('-----------------------------------------------------------------------')
 
-letters = {'a', 'b', 'c'}
+letters = {'a', 'b', 'c', 'b'}
 print(letters) # {'b', 'c', 'a'}
 print('a' in letters) # True
 print('z' in letters) # False
