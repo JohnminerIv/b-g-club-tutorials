@@ -1,7 +1,8 @@
 # day_1/ifs.py
 
 """
-If statements can control the flow of your application.
+If statements can control the flow of your application. it works by seeing if
+the value that you give it is true or not. If it is the code inside of it will run.
 """
 
 yes = True

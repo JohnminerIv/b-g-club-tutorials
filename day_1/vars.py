@@ -17,7 +17,7 @@ print(10) # This will print 10 to the terminal.
 Type your own print statement below.
 """
 
-# print(20) # <-- Type your print statement before the hashtag
+# <-- Type your print statement before the hashtag
 
 """
 You can run a program by typing python3 <name of the file> in the terminal
@@ -28,7 +28,7 @@ Type: python3 vars.py
 Varialbles are something that you can assign a value to. You give it a name and
 you tell it it's value, then when ever you call it's name you get the value.
 Lets go ahead and uncomment those two lines below, what do you think will
-happen?
+happen when we run it?
 """
 
 # my_variable = 3
@@ -40,12 +40,12 @@ be something else. Uncomment the lines below and see if you can guess what each
 print statement will print.
 """
 
-"""
+
 one = 1
 two = 2
 three = 3
 goku = 9001
-"""
+
 
 # print(goku - one) # Type your guess here:
 # print(goku + one) # Type your guess here:

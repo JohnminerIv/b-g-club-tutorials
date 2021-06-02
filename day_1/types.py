@@ -47,6 +47,8 @@ print('-----------------------------------------------------------------------')
 
 letters = {'a', 'b', 'c', 'b'}
 print(letters) # {'b', 'c', 'a'}
+letters.add('t')
+print(letters) # {'b', 'c', 'a', 't'}
 print('a' in letters) # True
 print('z' in letters) # False
 

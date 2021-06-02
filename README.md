@@ -5,8 +5,8 @@ A set of coding tutorials written for the Kotzebue Boys and Girls club.
 | Date       | Folder | Topic                                           |
 |------------|--------|-------------------------------------------------|
 | June 7/8   | day_1  | Vars, ifs, loops, types, comments               |
-| June 14/15 | day_2  | Functions, parameters, imports, tracebacks      |
-| June 21/22 | day_3  | Classes, methods, init, if-main, brainstorm     |
+| June 14/15 | day_2  | Functions, parameters, imports, if-main         |
+| June 21/22 | day_3  | Classes, methods, init, tracebacks, brainstorm  |
 | June 28/29 | day_4  | Showcase samples, Choose project, design, mockup|
 | July 5/6   | day_5  | Research your project's tech stack              |
 | July 12/13 | day_6  | git, requirements, venv, start the projects     |
