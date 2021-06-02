@@ -6,7 +6,7 @@ Shoulder rolls
 Neck stretches
 10 jumping jacks
 
-Demonstrate each teams calculator app. Please walk us through the code a little \
+Demonstrate each teams tic tac toe app. Please walk us through the code a little \
 bit what are you most proud of, what are some things you want to work on. \
 Constructive critisism, what did you like about their design, what could they \
 work on.
@@ -17,13 +17,11 @@ Volunteers to be a TA for today?
 
 ## Main Activity
 
-Today we'll be starting with functions, which are an easy way of encapsuling code.
+Today we'll be starting with classes, which are an easy way of organizing code. \
+This section will also cover methods and the __init__ method. Then we'll use the \
+classes to help polish our debuging skills.
 
-Next we'll be moving on to function parameters, and type annotations
-
-Now we'll move onto the if_main file
-
-Next lets look at the imports file.
+For the rest of our time I want you all to talk to each other about what 
 
 ## Challenge
 
