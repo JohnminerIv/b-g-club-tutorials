@@ -21,20 +21,7 @@ Today we'll be starting with classes, which are an easy way of organizing code. 
 This section will also cover methods and the __init__ method. Then we'll use the \
 classes to help polish our debuging skills.
 
-For the rest of our time I want you all to talk to each other about what 
-
 ## Challenge
 
-Your goal is to create a command line tic tac toe program. When you run the \
-srcipt it should:
-
-1. Ask if player1 wants to be x or o
-2. Display an ascii board
-3. prompt player 1 for a move
-4. Display what the new ascii board looks like
-5. prompt player 2 for a move
-6. Display what the new ascii board looks like
-7. Repeat steps 3-6 until a player wins 
-8. Display a winning screen and prompt the players to play again, if they say yes repeat step 1-8 if no end the program.
-
-Place your code in the 
+Your goal is to brainstorm and start thinking about how you would create whatever \
+project you are thinking about creating see day_3/brainstorm_challenge.py
